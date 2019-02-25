@@ -7,7 +7,7 @@ import org.apache.spark.api.java.function.Function;
 public class SimpleApp {
   public static void main(String[] args) {
     
-    String logf="bbb";
+    String logf="xxxxx";
     
     String logFile = "e:/word.txt";
     SparkConf conf = new SparkConf().setAppName("Simple Application").setMaster("local");
